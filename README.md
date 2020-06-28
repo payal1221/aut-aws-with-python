@@ -9,3 +9,4 @@ Webotron is a script that will sync a local directory to an s3 bucket, and optio
 Webotron currently has the following features:
 - List bucket
 - List content of a bucket
+- Create and setup bucket
